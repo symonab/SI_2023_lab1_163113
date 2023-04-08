@@ -1,0 +1,32 @@
+3. kreirav repo na github
+
+4. $ cd desktop
+$ mkdir SI_2023_lab1_163113
+$ cd SI_2023_lab1_163113
+$ git init
+Initialized empty Git repository in C:/Users/user/Desktop/SI_2023_lab1_163113/.git/
+
+5.$ git remote add origin https://github.com/symonab/SI_2023_lab1_163113.git
+
+
+6. nano README.md i vnesov toa sto se bara
+git add README.md
+user@DESKTOP-MEJHH7Q MINGW64 ~/desktop/SI_2023_lab1_163113 (master)
+$ git commit -m "initial commit"
+
+7. $ touch SILab1.java
+$ git add SILab1.java
+$ git commit -m "Add java class"
+[master 5455fb2] Add java class
+ 1 file changed, 41 insertions(+)
+ create mode 100644 SILab1.java
+
+8. $ git push -u origin master
+Enumerating objects: 4, done.
+
+27. $ touch logs.txt
+$ git add logs.txt
+$ touch 163113.txt
+$ git add 163113.txt
+
+28.$ git push -u origin master

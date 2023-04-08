@@ -1,0 +1,11 @@
+commit 5455fb2e401db04e65a3f09f92ab9ced2fe4feaf
+Author: symonab <lauranana331@gmail.com>
+Date:   Sat Apr 8 23:41:19 2023 +0200
+
+    Add java class
+
+commit 557ad8b82be59656755da51ebfcc7122e8e067f6
+Author: symonab <lauranana331@gmail.com>
+Date:   Sat Apr 8 22:57:04 2023 +0200
+
+    initial commit
